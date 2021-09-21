@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp.BLL\bin\Debug\netcoreapp3.1\AddressApp.BLL.deps.json
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp.BLL\bin\Debug\netcoreapp3.1\AddressApp.BLL.dll
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp.BLL\bin\Debug\netcoreapp3.1\AddressApp.BLL.pdb
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp.BLL\bin\Debug\netcoreapp3.1\AddressApp.DAL.dll
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp.BLL\bin\Debug\netcoreapp3.1\AddressApp.DAL.pdb
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp.BLL\obj\Debug\netcoreapp3.1\AddressApp.BLL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp.BLL\obj\Debug\netcoreapp3.1\AddressApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp.BLL\obj\Debug\netcoreapp3.1\AddressApp.BLL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp.BLL\obj\Debug\netcoreapp3.1\AddressApp.BLL.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp.BLL\obj\Debug\netcoreapp3.1\AddressApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp.BLL\obj\Debug\netcoreapp3.1\AddressApp.BLL.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp.BLL\obj\Debug\netcoreapp3.1\AddressApp.BLL.dll
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp.BLL\obj\Debug\netcoreapp3.1\AddressApp.BLL.pdb

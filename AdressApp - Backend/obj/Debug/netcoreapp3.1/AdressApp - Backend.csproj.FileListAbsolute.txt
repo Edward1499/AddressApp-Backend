@@ -1,0 +1,21 @@
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\bin\Debug\netcoreapp3.1\AdressApp - Backend.exe
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\bin\Debug\netcoreapp3.1\AdressApp - Backend.deps.json
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\bin\Debug\netcoreapp3.1\AdressApp - Backend.runtimeconfig.json
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\bin\Debug\netcoreapp3.1\AdressApp - Backend.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\bin\Debug\netcoreapp3.1\AdressApp - Backend.dll
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\bin\Debug\netcoreapp3.1\AdressApp - Backend.pdb
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\obj\Debug\netcoreapp3.1\AdressApp - Backend.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\obj\Debug\netcoreapp3.1\AdressApp - Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\obj\Debug\netcoreapp3.1\AdressApp - Backend.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\obj\Debug\netcoreapp3.1\AdressApp - Backend.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\obj\Debug\netcoreapp3.1\AdressApp - Backend.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\obj\Debug\netcoreapp3.1\AdressApp - Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\obj\Debug\netcoreapp3.1\staticwebassets\AdressApp - Backend.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\obj\Debug\netcoreapp3.1\staticwebassets\AdressApp - Backend.StaticWebAssets.xml
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\obj\Debug\netcoreapp3.1\scopedcss\bundle\AdressApp - Backend.styles.css
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\obj\Debug\netcoreapp3.1\AdressApp - Backend.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\obj\Debug\netcoreapp3.1\AdressApp - Backend.dll
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\obj\Debug\netcoreapp3.1\AdressApp - Backend.pdb
+C:\Users\Lenovo\source\repos\AdressApp - Backend\AdressApp - Backend\obj\Debug\netcoreapp3.1\AdressApp - Backend.genruntimeconfig.cache
